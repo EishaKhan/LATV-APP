@@ -92,7 +92,6 @@ const useStyles = makeStyles((theme) => ({
     color: '#2c4887',
     fontWeight: 400,
     lineHeight: '20px',
-    //textAlign: 'center'
     marginLeft: '15px'
   },
   hero: {
